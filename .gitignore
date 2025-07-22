@@ -22,3 +22,7 @@
 *.sbt.ivy
 *.vscode
 .idea/
+.scala-cli/
+*.scala-cli.json
+*.scala-build
+*.scala-build.json
